@@ -1,0 +1,13 @@
+.container-fluid{
+	background-color: #202020;
+}
+.jumbotron{
+	/* background-color:rgb(237, 33, 142); */
+	background-color: #7a005c;
+	width: 1200px;
+	margin:auto;
+}
+.text{
+	font-family: "SimHei";
+	font-color:black; 
+}
