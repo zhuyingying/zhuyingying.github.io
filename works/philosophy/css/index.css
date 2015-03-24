@@ -1,3 +1,25 @@
-.jumbotron{
+#container{
 	background-color: #202020;
+}
+label.sr-only{
+	height: 50px;
+}
+}
+.carousel{
+	height: 600px;
+	background-color: white;
+}
+.carousel .item{
+	height: 600px;
+	background-color: white;
+}
+.carousel .img{
+	width: 100%;
+}
+#zhe1{
+	margin-top:50px; 
+}
+#bottom address{
+	margin-left:45%;
+	padding-bottom:50px; 
 }

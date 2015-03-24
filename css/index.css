@@ -2,12 +2,14 @@
 	background-color: #202020;
 }
 .jumbotron{
-	/* background-color:rgb(237, 33, 142); */
-	background-color: #7a005c;
+	background-color: rgb(246,248,249);/*#7a005c;*/
 	width: 1200px;
-	margin:auto;
+	margin: auto;
+	height: 1800px;
 }
 .text{
-	font-family: "SimHei";
-	font-color:black; 
+	font-family: "SimHei"; 
+}
+a{
+	color:rgb(64,212,126); 
 }
