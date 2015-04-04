@@ -1,0 +1,19 @@
+div{
+	margin: 0;
+	padding:0; 
+}
+#main{
+	background: #6DBB58;
+	height: 1020px;
+	}
+.eight{
+	height: 1020px;
+	background: #6DBB58;
+}
+#personalresume p{
+	color: white;
+	font-size: 100px;
+	font-family: "SimHei";
+	padding: 200px;
+
+}

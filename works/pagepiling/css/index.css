@@ -1,0 +1,40 @@
+.section{
+	text-align: center;
+}
+.section a{
+	text-decoration: none;
+	/*vertical-align: center;*/
+}
+/*.section a img{
+
+}*/
+img{
+	border-radius: 250px;
+}
+h2{
+	color: white;
+	font:46px "华文新魏";
+}
+h3{
+	color: white;
+	font: 36px "pxp bold" "楷体";
+}
+#git{
+	font: 22px "pxp bold"
+}
+#page2{
+	width: 1300px;
+	margin: auto;
+}
+#page2 .left{
+	height: 400px;
+	width: 600px;
+	background: white;
+	float: left;
+}
+#page2 .right{
+	height: 400px;
+	width: 600px;
+	background: white;
+	float: right;
+}

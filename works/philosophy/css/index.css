@@ -6,11 +6,12 @@ label.sr-only{
 }
 }
 .carousel{
-	height: 600px;
+	height: 400px;
 	background-color: white;
 }
 .carousel .item{
-	height: 600px;
+	width: 1200px;
+	height: 400px;
 	background-color: white;
 }
 .carousel .img{
