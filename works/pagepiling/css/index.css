@@ -8,7 +8,7 @@
 /*.section a img{
 
 }*/
-img{
+#photo{
 	border-radius: 250px;
 }
 h2{
@@ -20,21 +20,18 @@ h3{
 	font: 36px "pxp bold" "楷体";
 }
 #git{
-	font: 22px "pxp bold"
+	font: 22px "pxp bold";
 }
-#page2{
-	width: 1300px;
-	margin: auto;
+#skill{
+	background: pink;
+	width: 1400px;
+	margin: 0 auto ;
 }
-#page2 .left{
-	height: 400px;
-	width: 600px;
-	background: white;
+.applogo{
 	float: left;
+	margin: 20px 60px;
 }
-#page2 .right{
-	height: 400px;
-	width: 600px;
-	background: white;
-	float: right;
+#add{
+	font:40px "simhei";
+	font-color:pink; 
 }
