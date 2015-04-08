@@ -20,8 +20,19 @@ h3{
 	font: 36px "pxp bold" "楷体";
 }
 #git{
-	font: 22px "pxp bold";
+	font: 30px "pxp bold";
 }
+a:link{
+			color: #fffff;
+		}
+		/*鼠标放上去的瞬间*/
+		a:hover {
+			color: #dc458d;
+		}
+		/*访问过后*/
+		a:visited{
+			color:#C8E4CC;
+		}
 #skill{
 	background: pink;
 	width: 1400px;
@@ -32,6 +43,17 @@ h3{
 	margin: 20px 60px;
 }
 #add{
+	
 	font:40px "simhei";
 	font-color:pink; 
+}
+#call{
+	width: 500px;
+	margin: auto;
+	text-align: left;
+}
+#email img{
+	width: 35px;
+	height: 30px;
+	border-top: 20px;
 }
