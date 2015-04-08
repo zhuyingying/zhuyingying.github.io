@@ -1,5 +1,5 @@
 $(document).ready(function() {
     $('#pagepiling').pagepiling({
-    	sectionsColor: ['#E66F69', '#2A3D4E', '#15336b', '#39bbd', '#C72F7F'],
+    	sectionsColor: ['#E4A3AE', '#2A3D4E', '#222327', '#33B6A0', '#078571', '#C72F7F'],
     });
 });

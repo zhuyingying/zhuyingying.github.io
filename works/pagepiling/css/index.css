@@ -47,13 +47,11 @@ a:link{
 	font:40px "simhei";
 	font-color:pink; 
 }
-#call{
-	width: 500px;
-	margin: auto;
-	text-align: left;
+#work img{
+	width: 1180px;
+	height: 690px;
 }
 #email img{
 	width: 35px;
-	height: 30px;
-	border-top: 20px;
+	height: 30px; 
 }
