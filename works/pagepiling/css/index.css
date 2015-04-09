@@ -23,16 +23,16 @@ h3{
 	font: 30px "pxp bold";
 }
 a:link{
-			color: #fffff;
+	color: #dc458d;
 		}
-		/*鼠标放上去的瞬间*/
-		a:hover {
-			color: #dc458d;
+/*鼠标放上去的瞬间*/
+a:hover {
+	color: #222327;
 		}
-		/*访问过后*/
-		a:visited{
-			color:#C8E4CC;
-		}
+/*访问过后*/
+a:visited{
+	color:#ffffff;
+	}
 #skill{
 	background: pink;
 	width: 1400px;
