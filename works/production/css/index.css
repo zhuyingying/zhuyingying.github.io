@@ -1,0 +1,24 @@
+#main{
+	-webkit-column-width:637px;/*-webkit代表谷歌内核识别码*/
+	-moz-column-width:637px;/*-moz代表火狐内核识别码*/
+	-o-column-width:637px;/*-o代表欧朋【opera】内核识别码*/
+	-ms-column-width:637px;/*ie内核识别码*/
+/*	-web-column-count:6;
+	-moz-column-width:6;
+	-o-column-width:6;
+	-ms-column-width:6;
+}*/
+.box{
+	padding: 10px 0 0 15px;
+}
+.pic{
+	padding: 10px;
+	border: 1px solid #ccc;
+	box-shadow: 5px;
+	width: 600px;
+}
+.pic img{
+	display: block;
+	width: 600px;
+	height: auto;
+} 

@@ -9,6 +9,8 @@
 
 }*/
 #photo{
+	width: 250px;
+	height: 250px;
 	border-radius: 250px;
 }
 h2{
@@ -50,6 +52,20 @@ a:visited{
 #work img{
 	width: 1180px;
 	height: 690px;
+}
+.box{
+	width: 1640px;
+	margin: 0 auto
+}
+.pic{
+	padding: 10px;
+	width: 800px;
+	height: 535px;
+	float: left;
+}
+.pic img{
+	width: 800px;
+	height: 535px;
 }
 #email img{
 	width: 35px;
