@@ -12,20 +12,21 @@
 	width: 250px;
 	height: 250px;
 	border-radius: 250px;
+	border:5px solid #90caaf;
 }
 h2{
 	color: white;
-	font:46px "华文新魏";
+	font:bold 46px "simhei" ;
 }
 h3{
 	color: white;
-	font: 36px "pxp bold" "楷体";
+	font: 36px "simhei";
 }
 #git{
-	font: 30px "pxp bold";
+	font: 30px "simhei";
 }
 a:link{
-	color: #dc458d;
+	color: #90caaf;
 		}
 /*鼠标放上去的瞬间*/
 a:hover {
@@ -33,7 +34,7 @@ a:hover {
 		}
 /*访问过后*/
 a:visited{
-	color:#ffffff;
+	color:#31A061;
 	}
 #skill{
 	background: pink;
